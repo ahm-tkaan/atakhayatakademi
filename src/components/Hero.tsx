@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
@@ -30,20 +32,21 @@ export default function Hero() {
       />
 
       <div className="relative z-10 text-center px-4 max-w-3xl mx-auto">
-        {/* Decorative symbol */}
-        <div className="animate-float mb-6">
-          <div className="inline-block text-5xl sm:text-6xl opacity-80">
-            &#10022;
-          </div>
+        {/* Logo */}
+        <div className="animate-float mb-8">
+          <Image
+            src="/logo.png"
+            alt="ATAK Hayat Akademi - Burcu Buyan Yolal"
+            width={320}
+            height={320}
+            className="mx-auto w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 object-contain drop-shadow-[0_0_30px_rgba(139,92,246,0.3)]"
+            priority
+          />
         </div>
 
         <p className="text-lavender text-sm sm:text-base tracking-[0.3em] uppercase mb-4 font-medium">
           Profesyonel Yaşam &amp; Kuantum Bilinçaltı Dönüşüm Koçu
         </p>
-
-        <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          <span className="gradient-text">Burcu Buyan Yolal</span>
-        </h1>
 
         <p className="text-text-secondary text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-4 leading-relaxed">
           Jean Adrienne Arınma Sistemi (JAAS) Seansı &bull; EFT-NLP Uygulayıcısı
