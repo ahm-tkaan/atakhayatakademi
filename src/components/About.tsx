@@ -37,17 +37,22 @@ export default function About() {
             <h3 className="text-2xl font-semibold text-text-primary mb-6">
               Burcu Buyan Yolal
             </h3>
+            <p className="text-lavender text-sm font-medium mb-4">
+              Profesyonel Yaşam &amp; Kuantum Bilinçaltı Dönüşüm Koçu | EFT-NLP Uygulayıcısı
+            </p>
             <div className="space-y-4 text-text-secondary leading-relaxed">
               <p>
-                Quantum Bilinçaltı Dönüşüm Koçu ve Numerolog olarak, bireylerin
-                yaşam yolculuklarında dönüşüm geçirmelerine rehberlik ediyorum.
-                Sayıların evrensel dilini ve enerji çalışmalarını birleştirerek,
-                danışanlarımın potansiyellerini keşfetmelerine yardımcı oluyorum.
+                Profesyonel Yaşam ve Kuantum Bilinçaltı Dönüşüm Koçu olarak,
+                bireylerin yaşam yolculuklarında dönüşüm geçirmelerine rehberlik
+                ediyorum. Jean Adrienne Arınma Sistemi (JAAS), EFT-NLP teknikleri
+                ve enerji çalışmalarını birleştirerek danışanlarımın
+                potansiyellerini keşfetmelerine yardımcı oluyorum.
               </p>
               <p>
-                Yıllardır süren eğitim ve deneyimlerimle; JAAS (Jungian
-                Archetypal Astrology System), Kader Matrisi, Karmik Numeroloji
-                ve Quantum Dönüşüm alanlarında uzmanlaştım.
+                Uzmanlık alanlarım arasında JAAS Seansı, Kader Matriksi Analizi,
+                Karmik Numeroloji Harita Analizi ve Kuantum Dönüşüm Online Seansları
+                yer almaktadır. Aşk, evlilik, ilişkiler ve para enerjileri
+                konularında da danışanlarıma destek sağlıyorum.
               </p>
             </div>
 

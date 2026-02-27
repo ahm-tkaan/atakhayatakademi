@@ -38,16 +38,20 @@ export default function Hero() {
         </div>
 
         <p className="text-lavender text-sm sm:text-base tracking-[0.3em] uppercase mb-4 font-medium">
-          Quantum Bilinçaltı Dönüşüm Koçu &amp; Numerolog
+          Profesyonel Yaşam &amp; Kuantum Bilinçaltı Dönüşüm Koçu
         </p>
 
         <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 leading-tight">
           <span className="gradient-text">Burcu Buyan Yolal</span>
         </h1>
 
-        <p className="text-text-secondary text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
-          Sayıların ve enerjinin rehberliğinde, bilinçaltınızın derinliklerine
-          yolculuk yapın. Kaderinizi keşfedin, dönüşümünüzü başlatın.
+        <p className="text-text-secondary text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-4 leading-relaxed">
+          Jean Adrienne Arınma Sistemi (JAAS) Seansı &bull; EFT-NLP Uygulayıcısı
+        </p>
+        <p className="text-text-secondary text-sm sm:text-base max-w-xl mx-auto mb-10 leading-relaxed">
+          Doğum Günü - Kader Matriksi &amp; Karmik Numeroloji Harita Analizi
+          <br />
+          Aşk &bull; Evlilik &bull; İlişkiler &bull; Para Enerjileri
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -55,7 +59,7 @@ export default function Hero() {
             href="#iletisim"
             className="bg-purple hover:bg-purple-light text-white px-8 py-3.5 rounded-full font-medium transition-all glow-purple hover:scale-105"
           >
-            Ücretsiz Keşif Görüşmesi
+            Randevu Talep Et
           </a>
           <a
             href="#hizmetler"

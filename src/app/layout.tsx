@@ -8,24 +8,24 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Burcu Buyan Yolal | Quantum Bilinçaltı Dönüşüm Koçu & Numerolog",
+  title: "Burcu Buyan Yolal | Profesyonel Yaşam & Kuantum Bilinçaltı Dönüşüm Koçu",
   description:
-    "Sayıların ve enerjinin rehberliğinde bilinçaltınızın derinliklerine yolculuk yapın. JAAS, Kader Matrisi, Karmik Numeroloji, Quantum Dönüşüm, Enerji Takvimi ve Celebrity Code hizmetleri.",
+    "Profesyonel Yaşam & Kuantum Bilinçaltı Dönüşüm Koçu, EFT-NLP Uygulayıcısı. JAAS Seansı, Kader Matriksi Analizi, Karmik Numeroloji Analizi, Kuantum Dönüşüm Online Seans hizmetleri.",
   keywords: [
-    "numeroloji",
-    "quantum dönüşüm",
-    "bilinçaltı koçluk",
-    "kader matrisi",
+    "kuantum bilinçaltı dönüşüm koçu",
+    "JAAS seansı",
+    "kader matriksi analizi",
     "karmik numeroloji",
-    "JAAS",
-    "enerji takvimi",
-    "celebrity code",
+    "EFT-NLP",
+    "kuantum dönüşüm",
     "Burcu Buyan Yolal",
+    "bilinçaltı koçluk",
+    "ilişki enerjileri",
   ],
   openGraph: {
-    title: "Burcu Buyan Yolal | Quantum Bilinçaltı Dönüşüm Koçu & Numerolog",
+    title: "Burcu Buyan Yolal | Profesyonel Yaşam & Kuantum Bilinçaltı Dönüşüm Koçu",
     description:
-      "Sayıların ve enerjinin rehberliğinde bilinçaltınızın derinliklerine yolculuk yapın.",
+      "JAAS Seansı, Kader Matriksi, Karmik Numeroloji ve Kuantum Dönüşüm hizmetleri.",
     type: "website",
     locale: "tr_TR",
   },

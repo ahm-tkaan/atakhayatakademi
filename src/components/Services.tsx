@@ -1,39 +1,39 @@
 const services = [
   {
     icon: "\u2734",
-    title: "JAAS Analizi",
+    title: "JAAS Seansı",
     description:
-      "Jungian Archetypal Astrology System ile arketipsel haritanızı çıkarın. Bilinçaltı kalıplarınızı ve yaşam amacınızı keşfedin.",
+      "Jean Adrienne Arınma Sistemi ile bilinçaltı bloklarınızı temizleyin. Derinlemesine arınma seanslarıyla enerjinizi yenileyin ve dönüşümünüzü başlatın.",
   },
   {
     icon: "\u2726",
-    title: "Kader Matrisi",
+    title: "Kader Matriksi Analizi",
     description:
-      "Doğum tarihinizden yola çıkarak kader matrisinizi hesaplayın. Yaşam derslerinizi ve potansiyelinizi ortaya koyun.",
+      "Doğum tarihinizden yola çıkarak kader matriksinizi hesaplayın. Yaşam derslerinizi, yeteneklerinizi ve potansiyelinizi ortaya koyun.",
   },
   {
     icon: "\u2738",
-    title: "Karmik Numeroloji",
+    title: "Karmik Numeroloji Analizi",
     description:
-      "Sayıların gizli mesajlarını çözümleyin. Karmik borçlarınızı ve yaşam döngülerinizi anlayın.",
+      "Sayıların gizli mesajlarını çözümleyin. Karmik borçlarınızı, yaşam döngülerinizi ve numerolojik haritanızı anlayın.",
   },
   {
     icon: "\u25C6",
-    title: "Quantum Dönüşüm",
+    title: "Kuantum Dönüşüm - Online Seans",
     description:
-      "Bilinçaltı programlamalarınızı dönüştürün. Quantum enerji çalışmalarıyla sınırlarınızı aşın.",
+      "Bilinçaltı programlamalarınızı dönüştürün. Online kuantum enerji çalışmalarıyla sınırlarınızı aşın, nerede olursanız olun.",
   },
   {
     icon: "\u25D5",
-    title: "Enerji Takvimi",
+    title: "Aşk, Evlilik & İlişki Enerjileri",
     description:
-      "Kişisel enerji takviminizi öğrenin. Her ayın ve günün enerjisine uyumlu kararlar alın.",
+      "İlişkilerinizin enerji dinamiklerini keşfedin. Aşk, evlilik ve kişilerarası bağlarınızdaki blokları çözümleyin.",
   },
   {
     icon: "\u2736",
-    title: "Celebrity Code",
+    title: "EFT-NLP Uygulaması",
     description:
-      "Kişisel marka enerjinizi keşfedin. Celebrity Code analizi ile potansiyelinizi en üst düzeye çıkarın.",
+      "Duygusal Özgürleşme Tekniği ve Nöro-Linguistik Programlama ile olumsuz kalıplarınızı dönüştürün, yeni davranış kalıpları oluşturun.",
   },
 ];
 

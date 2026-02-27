@@ -31,7 +31,7 @@ export default function Contact() {
           <div className="space-y-4">
             {/* Phone */}
             <a
-              href="tel:+905555555555"
+              href="tel:+905451902805"
               className="card-mystical rounded-xl p-5 flex items-center gap-4 group"
             >
               <div className="w-12 h-12 rounded-full bg-purple/20 flex items-center justify-center text-purple-light group-hover:bg-purple/30 transition-colors shrink-0">
@@ -52,14 +52,14 @@ export default function Contact() {
               <div>
                 <p className="text-text-secondary text-sm">Telefon</p>
                 <p className="text-text-primary font-medium">
-                  +90 555 555 55 55
+                  +90 545 190 28 05
                 </p>
               </div>
             </a>
 
             {/* Email */}
             <a
-              href="mailto:info@burcubuyanyolal.com"
+              href="mailto:burcubuyanyolal@gmail.com"
               className="card-mystical rounded-xl p-5 flex items-center gap-4 group"
             >
               <div className="w-12 h-12 rounded-full bg-purple/20 flex items-center justify-center text-purple-light group-hover:bg-purple/30 transition-colors shrink-0">
@@ -80,7 +80,7 @@ export default function Contact() {
               <div>
                 <p className="text-text-secondary text-sm">E-posta</p>
                 <p className="text-text-primary font-medium">
-                  info@burcubuyanyolal.com
+                  burcubuyanyolal@gmail.com
                 </p>
               </div>
             </a>
@@ -144,14 +144,14 @@ export default function Contact() {
           <div className="card-mystical rounded-2xl p-8 flex flex-col items-center justify-center text-center">
             <div className="text-5xl mb-6 opacity-80">&#10022;</div>
             <h3 className="text-2xl font-bold text-text-primary mb-4">
-              Ücretsiz Keşif Görüşmesi
+              Randevu Talep Edin
             </h3>
             <p className="text-text-secondary mb-8 leading-relaxed">
-              15 dakikalık ücretsiz keşif görüşmesi ile size en uygun hizmeti
-              birlikte belirleyelim. Dönüşüm yolculuğunuz bir adım uzağınızda.
+              Birebir seans için lütfen randevu talep ediniz. Eğitimler
+              hakkında bilgi almak için de iletişime geçebilirsiniz.
             </p>
             <a
-              href="https://wa.me/905555555555?text=Merhaba%2C%20ücretsiz%20keşif%20görüşmesi%20hakkında%20bilgi%20almak%20istiyorum."
+              href="https://wa.me/905451902805?text=Merhaba%2C%20seans%20randevusu%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 hover:bg-green-500 text-white px-8 py-3.5 rounded-full font-medium transition-all hover:scale-105 inline-flex items-center gap-2"
